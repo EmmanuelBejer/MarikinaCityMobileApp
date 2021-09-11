@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MarikinaCityMobileApp</string>
+    <string name="Submit">Submit</string>
+    <string name="Resend">Resend</string>
+    <string name="OTP">OTP</string>
+    <string name="otp">Enter OTP</string>
+    <string name="Exist">Exist</string>
+    <string name="Hint">+63 </string>
+    <string name="Numbers">9123456789</string>
+    <string name="REGISTER">REGISTER</string>
+    <string name="enternumber">Enter Your Mobile Number</string>
+
+    </resources>

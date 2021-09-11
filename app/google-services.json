@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "831729818737",
+    "project_id": "marikinacityapp-3814e",
+    "storage_bucket": "marikinacityapp-3814e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831729818737:android:ffc85e45ba1eefd27b4fd0",
+        "android_client_info": {
+          "package_name": "com.example.marikinacitymobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831729818737-tr0eb4orae4e6u5aslursaggbq87vbn2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.marikinacitymobileapp",
+            "certificate_hash": "17d9d90c72e83ff984b53e46cf836ac64f47b81f"
+          }
+        },
+        {
+          "client_id": "831729818737-8lj87abha2cedv6262knu4l3ni14a1ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPBNwdVyXzuVGhwsH0n2bU5CQMK-bIZ2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831729818737-8lj87abha2cedv6262knu4l3ni14a1ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831729818737:android:f8cb41cbf59784f77b4fd0",
+        "android_client_info": {
+          "package_name": "com.example.mobilecapstoneauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831729818737-8lj87abha2cedv6262knu4l3ni14a1ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPBNwdVyXzuVGhwsH0n2bU5CQMK-bIZ2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831729818737-8lj87abha2cedv6262knu4l3ni14a1ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
